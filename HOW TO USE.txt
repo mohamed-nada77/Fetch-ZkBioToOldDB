@@ -1,0 +1,9 @@
+1. Open dist File
+2. Locate the .exe file
+3. Open CMD 
+4. Grab the .exe file into CMD 
+5. Make sure Database was found ! C:\Users\User\AppData\Local\VirtualStore\Program Files (x86)\AttMid-east\att2000.mdb
+6. Wait until Exuction is Done.
+
+
+D0ne.
